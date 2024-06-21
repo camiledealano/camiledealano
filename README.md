@@ -3,7 +3,8 @@
 <div>  
   <div align="center">
     🚀 I'm currently working as full-stack developer II at Betha Sistemas<br/>
-    🌱 I'm currently learning Java and Spring<br/>
+    ❤️ I love working as a back-end! My favorite technologies are Java and Spring.<br/>
+    🌱 I am constantly improving my skills in analyzing and improving application performance.<br/>
     🧑‍🎓 I'm a computer science academic
   </div>
 
