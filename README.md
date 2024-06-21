@@ -28,7 +28,7 @@
   
   <div align="center">
 <!--     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=camiledealano&show_icons=true&theme=radical&include_all_commits=true&count_private=true">-->
-    <img height="170em" src="https://github-readme-stats-hazel-one-98.vercel.app/api/top-langs/?username=camiledealano&layout=compact&theme=radical&include_all_commits=true&count_private=true""> 
+    <img height="170em" src="https://github-readme-stats-hazel-one-98.vercel.app/api/top-langs/?username=camiledealano&layout=compact&theme=radical&include_all_commits=true&count_private=true"> 
   </div>
 
    ## 📫 &nbsp;Contact
