@@ -2,7 +2,7 @@
 
 <div>  
   <div align="center">
-    🚀 I'm currently working as full-stack developer II at Betha Sistemas<br/>
+    🚀 I'm currently working as full-stack developer III at Betha Sistemas<br/>
     ❤️ I love working as a back-end! My favorite technologies are Java and Spring.<br/>
     🌱 I am constantly improving my skills in analyzing and improving application performance.<br/>
     🧑‍🎓 I'm a computer science academic
@@ -29,8 +29,8 @@
   
   <div align="center">
 <!--     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=camiledealano&show_icons=true&theme=radical&include_all_commits=true&count_private=true">-->
-    <img height="170em" src="https://github-readme-stats-hazel-one-98.vercel.app/api/top-langs/?username=camiledealano&layout=compact&theme=radical&include_all_commits=true&count_private=true"> 
-  </div>
+<!--     <img height="170em" src="https://github-readme-stats-hazel-one-98.vercel.app/api/top-langs/?username=camiledealano&layout=compact&theme=radical&include_all_commits=true&count_private=true"> 
+  </div> -->
 
    ## 📫 &nbsp;Contact
    <div align="center">
