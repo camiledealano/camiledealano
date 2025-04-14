@@ -4,7 +4,7 @@
   <div align="center">
     🚀 I'm currently working as full-stack developer III at Betha Sistemas<br/>
     ❤️ I love working as a back-end! My favorite technologies are Java and Spring.<br/>
-    🌱 I am constantly improving my skills in analyzing and improving application performance.<br/>
+    🌱 I am constantly improving my skills in analyzing and improving application performance and software architecture.<br/>
     🧑‍🎓 I'm a computer science academic
   </div>
 
