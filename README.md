@@ -90,3 +90,10 @@
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
 </div>
+
+---
+
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=camiledealano&label=Views%20&color=751aed&style=flat" alt="camiledealano" /> 
+</p>
+
