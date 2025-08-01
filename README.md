@@ -3,10 +3,10 @@
 ---
 
 🚀 Currently working as a **Full Stack Developer III** at **Betha Sistemas**  
-🎓 Computer Science student and aspiring **Software Architect** <br/>
+🎓 Computer Science student and aspiring Software Architect <br/>
 ❤️ Passionate about back-end development, especially with **Java** and **Spring Boot**  
 ⚙️ I love building reliable, high-performance systems and designing efficient software architecture  
-📚 Always exploring new tools and improving my skills in **DevOps**, **TypeScript**, and performance tuning  
+📚 Always exploring new tools and improving my skills in DevOps, TypeScript and performance tuning  
 
 ---
 
